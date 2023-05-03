@@ -54,7 +54,7 @@ Feature importance:
 PCA of zircon composition:    
 
 <div align=center>
-<img src="/doc/PCA.png" width="500" height="500">
+<img src="/doc/PCA.png" width="600" height="500">
 </div>
 
 Geochemical discriminant diagrams for zircon provenances:  
