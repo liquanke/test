@@ -60,7 +60,7 @@ PCA of zircon composition:
 Geochemical discriminant diagrams for zircon provenances:  
 
 <div align=center>
-<img src="/doc/Geochemical_discriminant.png">
+<img src="/doc/Geochemical_discriminant.png" width="600" height="500">
 </div>
 
 
