@@ -45,7 +45,7 @@ python rf.py
 ### Running example
 Feature importance:  
 <div align=center>
-<img src="/doc/fea_impo.png" width="180" height="105"> width="180" height="105"/>
+<img src="/doc/fea_impo.png">
 </div>
 
 PCA of zircon composition:  
