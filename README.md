@@ -43,13 +43,13 @@ python rf.py
 ```
 
 ### Running example
-Feature importance:
+Feature importance:  
 ![](/doc/fea_impo.png)
 
-PCA of zircon composition:
+PCA of zircon composition:  
 ![](/doc/PCA.png)
 
-Geochemical discriminant diagrams for zircon provenances:
+Geochemical discriminant diagrams for zircon provenances:  
 ![](/doc/Geochemical_discriminant.png)
 
 
