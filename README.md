@@ -46,7 +46,9 @@ python rf.py
 Feature importance:
 ![](/doc/fea_impo.png)
 PCA of zircon composition:
+<div align=center>
 ![](/doc/PCA.png)
+</div>
 Geochemical discriminant diagrams for zircon provenances:
 ![](/doc/Geochemical_discriminant.png)
 
