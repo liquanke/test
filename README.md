@@ -45,8 +45,10 @@ python rf.py
 ### Running example
 Feature importance:
 ![](/doc/fea_impo.png)
+
 PCA of zircon composition:
 ![](/doc/PCA.png)
+
 Geochemical discriminant diagrams for zircon provenances:
 ![](/doc/Geochemical_discriminant.png)
 
