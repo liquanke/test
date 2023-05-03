@@ -44,7 +44,9 @@ python rf.py
 
 ### Running example
 Feature importance:  
-![](/doc/fea_impo.png)
+<div align=center>
+<img src="/doc/fea_impo.png" width="180" height="105"> width="180" height="105"/>
+</div>
 
 PCA of zircon composition:  
 ![](/doc/PCA.png)
