@@ -3,7 +3,9 @@
 ## Overview
 This repository contains data source and codes used in the paper entitled "Hadean tectonics: Insights from machine learning" by G. Chen et al. We developed high-dimensional machine learning (ML) approaches using zircon chemistry data (spanning 19 elements over 4.0 b.y.) to characterize zircons that crystallized in some typical tectonic settings (e.g., arcs, plumerelated hotspots, and rifts) and from either igneous (I-type) or sedimentary (S-type) magmas.
 
-![](/doc/workflow.png)
+<div align=center>
+<img src="/doc/workflow.png">
+</div>
 
 ## Data files
 * [Data](/data/) -- We combined recently compiled zircon TE chemistry data (P, Ti, Hf, Th, U, Y, and REEs [excluding Pr]) from previous publications (e.g., Borisova et al., 2022; Carley et al., 2022; Cavosie et al., 2006; Tang et al., 2021; references therein). Samples with La >1 ppm, (Dy/Nd) + (Dy/Sm) ≤ 30, and outliers with >mean +3*δ were filtered in order to eliminate the altered zircons and statistical deviation of the compiled geochemical database, and ~6000 zircon analyses were used in this study. 
