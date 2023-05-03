@@ -32,7 +32,7 @@ cd XXXXXX
 ```
 ### Running the codes
 
-The py codes require the Python complier installed on the PC or Laptop computer. To use the [related codes](#code-files), one must install the related  [Prerequisites](#prerequisites) on your Python complier.
+The python codes require the Python complier installed on the PC or Laptop computer. To use the [related codes](#code-files), one must install the related  [Prerequisites](#prerequisites) on your Python complier.
 
 * Update the path of [data files](#data-files) in python codes
 * Run the python codes in [code files](#code-files)
