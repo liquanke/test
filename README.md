@@ -51,7 +51,7 @@ Feature importance:
 <img src="/doc/fea_impo.png">
 </div>
 
-PCA of zircon composition:  
+PCA of zircon composition:    
 
 <div align=center>
 <img src="/doc/PCA.png">
