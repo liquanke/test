@@ -49,13 +49,13 @@ Feature importance:
 
 <div align=center>
 <img src="/doc/fea_impo.png">
-</div>
+</div>  
 
 PCA of zircon composition:    
 
 <div align=center>
 <img src="/doc/PCA.png" width="600" height="500">
-</div>
+</div>  
 
 Geochemical discriminant diagrams for zircon provenances:  
 
