@@ -1,0 +1,27 @@
+<annotation>
+	<folder>ctpp_test</folder>
+	<filename>ctpp3_zoom_16.jpg</filename>
+	<path>D:\software\labelimage\test\ctpp_test\ctpp3_zoom_16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coal_fired_power_plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>601</xmin>
+			<ymin>455</ymin>
+			<xmax>831</xmax>
+			<ymax>583</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+</annotation>

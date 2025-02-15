@@ -1,0 +1,17 @@
+<annotation>
+	<filename>ctpp1_zoom_16_0#5440_7360_640_640_0_9216_7168.jpg</filename>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>coal_fired_power_plant</name>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>62</ymin>
+			<xmax>257</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>
